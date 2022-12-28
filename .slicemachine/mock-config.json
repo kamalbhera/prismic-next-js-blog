@@ -1,0 +1,13 @@
+{
+  "slices": {
+    "ContactForm": {},
+    "Quote": {},
+    "Text": {},
+    "Image": {}
+  },
+  "_cts": {
+    "navigation": {},
+    "page": {},
+    "settings": {}
+  }
+}

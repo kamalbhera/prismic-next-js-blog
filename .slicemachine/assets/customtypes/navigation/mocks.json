@@ -1,0 +1,47 @@
+{
+  "homepagelabel": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Laborum commodo cillum ullamco dolor enim aliqua eu occaecat adipisicing pariatur mollit magna id magna do. Cupidatat mollit irure eu. Laboris ipsum aliqua duis ipsum non esse occaecat qui Lorem esse est culpa."
+        }
+      }
+    ]
+  },
+  "links": {
+    "__TYPE__": "GroupContentType",
+    "value": [
+      {
+        "__TYPE__": "GroupItemContent",
+        "value": [
+          [
+            "label",
+            {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Minim ipsum deserunt occaecat anim velit sint incididunt ex."
+                  }
+                }
+              ]
+            }
+          ],
+          [
+            "link",
+            {
+              "__TYPE__": "LinkContent",
+              "value": {
+                "__TYPE__": "ExternalLink",
+                "url": "https://prismic.io"
+              }
+            }
+          ]
+        ]
+      }
+    ]
+  }
+}
